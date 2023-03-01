@@ -1,6 +1,6 @@
 # 1st Assignment
 
-<div align="justify"><h4>This project consists of two parts the first part has to do with the EEG Eye State dataset and the second part has to do with the Dry Bean dataset both of them can be found on UCI (Machine Learning Repository). This project examines the use of supervised learning.</h4></div>
+<div align="justify"><h4>This group project consists of two parts the first part has to do with the EEG Eye State dataset and the second part has to do with the Dry Bean dataset both of them can be found on UCI (Machine Learning Repository). This project examines the use of supervised learning.</h4></div>
 
 <ul>
 <li><div align="justify"><h4>In the first part we examine the use of dummy, GNB, kNN and logistic regression as classifiers on the labeled data of EEG Eye State dataset. Initially we observed their out-of-the-box outputs and then by using optimization methods found out the optimal classifier and the alterations that we had to apply.</h4></div></li>
